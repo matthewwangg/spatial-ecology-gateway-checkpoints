@@ -1,0 +1,13 @@
+# Ignore image files
+*.png
+*.jpeg
+*.jpg
+*.gif
+
+# Ignore data files
+*.csv
+*.txt
+
+# Ignore Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
