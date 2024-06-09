@@ -11,3 +11,6 @@
 # Ignore Jupyter notebook checkpoint files
 .ipynb_checkpoints/
 
+# Ignore others
+*.key
+*.tmp
